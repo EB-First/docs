@@ -21,7 +21,7 @@ import sphinx_rtd_theme
 # -- Project information -----------------------------------------------------
 
 project = 'EB FIRST'
-copyright = '2020, Varun Mehrotra'
+copyright = '2020, East Brunswick FIRST Inc.'
 author = 'Varun Mehrotra'
 master_doc = 'index'
 
