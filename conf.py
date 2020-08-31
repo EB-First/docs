@@ -20,7 +20,7 @@
 project = 'EB FIRST'
 copyright = '2020, Varun Mehrotra'
 author = 'Varun Mehrotra'
-
+master_doc = 'index'
 
 # -- General configuration ---------------------------------------------------
 
