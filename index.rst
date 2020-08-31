@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to EB FIRST's documentation!
-====================================
+Hi! Welcome to EB FIRST's documentation!
+========================================
 
 .. toctree::
    :maxdepth: 2
