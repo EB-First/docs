@@ -7,7 +7,7 @@
   
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
-  <title>Search &mdash; EB FIRST  documentation</title>
+  <title>Nontech &mdash; EB FIRST  documentation</title>
   
 
   
@@ -20,7 +20,6 @@
   
 
   
-    
   <!--[if lt IE 9]>
     <script src="_static/js/html5shiv.min.js"></script>
   <![endif]-->
@@ -35,9 +34,8 @@
     <script type="text/javascript" src="_static/js/theme.js"></script>
 
     
-    <script type="text/javascript" src="_static/searchtools.js"></script>
     <link rel="index" title="Index" href="genindex.html" />
-    <link rel="search" title="Search" href="#" /> 
+    <link rel="search" title="Search" href="search.html" /> 
 </head>
 
 <body class="wy-body-for-nav">
@@ -64,7 +62,7 @@
 
           
 <div role="search">
-  <form id="rtd-search-form" class="wy-form" action="#" method="get">
+  <form id="rtd-search-form" class="wy-form" action="search.html" method="get">
     <input type="text" name="q" placeholder="Search docs" />
     <input type="hidden" name="check_keywords" value="yes" />
     <input type="hidden" name="area" value="default" />
@@ -83,7 +81,16 @@
             
             
               <!-- Local TOC -->
-              <div class="local-toc"></div>
+              <div class="local-toc"><ul>
+<li><a class="reference internal" href="#">Nontech</a><ul>
+<li><a class="reference internal" href="#installation">Installation</a></li>
+<li><a class="reference internal" href="#usage">Usage</a></li>
+<li><a class="reference internal" href="#contributing">Contributing</a></li>
+<li><a class="reference internal" href="#license">License</a></li>
+</ul>
+</li>
+</ul>
+</div>
             
           
         </div>
@@ -128,12 +135,14 @@
     
       <li><a href="index.html" class="icon icon-home"></a> &raquo;</li>
         
-      <li>Search</li>
+      <li>Nontech</li>
     
     
       <li class="wy-breadcrumbs-aside">
         
             
+            <a href="_sources/nontech.md.txt" rel="nofollow"> View page source</a>
+          
         
       </li>
     
@@ -145,18 +154,37 @@
           <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
            <div itemprop="articleBody">
             
-  <noscript>
-  <div id="fallback" class="admonition warning">
-    <p class="last">
-      Please activate JavaScript to enable the search functionality.
-    </p>
-  </div>
-  </noscript>
+  <div class="section" id="nontech">
+<h1>Nontech<a class="headerlink" href="#nontech" title="Permalink to this headline">¶</a></h1>
+<p>Foobar is a Python library for dealing with word pluralization.</p>
+<div class="section" id="installation">
+<h2>Installation<a class="headerlink" href="#installation" title="Permalink to this headline">¶</a></h2>
+<p>Use the package manager <a class="reference external" href="https://pip.pypa.io/en/stable/">pip</a> to install foobar.</p>
+<div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>pip install foobar
+</pre></div>
+</div>
+</div>
+<div class="section" id="usage">
+<h2>Usage<a class="headerlink" href="#usage" title="Permalink to this headline">¶</a></h2>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="kn">import</span> <span class="nn">foobar</span>
 
-  
-  <div id="search-results">
-  
-  </div>
+<span class="n">foobar</span><span class="o">.</span><span class="n">pluralize</span><span class="p">(</span><span class="s1">&#39;word&#39;</span><span class="p">)</span> <span class="c1"># returns &#39;words&#39;</span>
+<span class="n">foobar</span><span class="o">.</span><span class="n">pluralize</span><span class="p">(</span><span class="s1">&#39;goose&#39;</span><span class="p">)</span> <span class="c1"># returns &#39;geese&#39;</span>
+<span class="n">foobar</span><span class="o">.</span><span class="n">singularize</span><span class="p">(</span><span class="s1">&#39;phenomena&#39;</span><span class="p">)</span> <span class="c1"># returns &#39;phenomenon&#39;</span>
+</pre></div>
+</div>
+</div>
+<div class="section" id="contributing">
+<h2>Contributing<a class="headerlink" href="#contributing" title="Permalink to this headline">¶</a></h2>
+<p>Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.</p>
+<p>Please make sure to update tests as appropriate.</p>
+</div>
+<div class="section" id="license">
+<h2>License<a class="headerlink" href="#license" title="Permalink to this headline">¶</a></h2>
+<p><a class="reference external" href="https://choosealicense.com/licenses/mit/">MIT</a></p>
+</div>
+</div>
+
 
            </div>
            
@@ -213,14 +241,7 @@
     </script>
 
     
-  
-  <script type="text/javascript">
-    jQuery(function() { Search.loadIndex("searchindex.js"); });
-  </script>
-  
-  <script type="text/javascript" id="searchindexloader"></script>
    
-
 
 </body>
 </html>

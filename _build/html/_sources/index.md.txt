@@ -2,4 +2,6 @@
 Hello :)
 
 ## Table of Contents
-* [Random Doc](modindex.md)
+* [Coding](code.md)
+* [Mechanical](mechanical.md)
+* [Non-tech](nontech.md)
