@@ -102,15 +102,3 @@ latex_elements = {
 suppress_warnings = ['epub.unknown_project_files']
 
 sphinx_tabs_valid_builders = ['epub', 'linkcheck']
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
