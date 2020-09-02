@@ -13,6 +13,6 @@ hello :)
    :caption: Contents:
 
 
-* :ref:`/docs/code/code_home`
-* :ref:`/docs/mech/mech_home`
-* :ref:`/docs/nontech/nontech_home`
+* :ref:`docs/code/code_home`
+* :ref:`docs/mech/mech_home`
+* :ref:`docs/nontech/nontech_home`
