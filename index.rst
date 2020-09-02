@@ -13,15 +13,18 @@ hello :)
    :caption: Code
 
    docs/code/code_home
+   docs/code/doc2
 
 .. toctree::
    :maxdepth: 2
    :caption: Mech
 
    docs/mech/mech_home
+   docs/mech/doc2
 
 .. toctree::
    :maxdepth: 2
    :caption: Nontech
 
    docs/nontech/nontech_home
+   docs/nontech/doc2
