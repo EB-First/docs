@@ -10,9 +10,9 @@ hello :)
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Code:
 
 
-* :ref:`docs/code/code_home`
-* :ref:`docs/mech/mech_home`
-* :ref:`docs/nontech/nontech_home`
+   docs/code/code_home
+   docs/mech/mech_home
+   docs/nontech/nontech_home
