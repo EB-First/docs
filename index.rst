@@ -16,12 +16,12 @@ hello :)
 
 .. toctree::
    :maxdepth: 2
-   :caption: Code
+   :caption: Mech
 
    docs/mech/mech_home
 
 .. toctree::
    :maxdepth: 2
-   :caption: Code
+   :caption: Nontech
 
    docs/nontech/nontech_home
