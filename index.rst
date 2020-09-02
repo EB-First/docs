@@ -10,8 +10,7 @@ hello :)
 
 .. toctree::
    :maxdepth: 2
-   :caption: Code:
-
+   :caption: Code
 
    docs/code/code_home
    docs/mech/mech_home
