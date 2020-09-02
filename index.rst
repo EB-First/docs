@@ -13,5 +13,15 @@ hello :)
    :caption: Code
 
    docs/code/code_home
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Code
+
    docs/mech/mech_home
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Code
+
    docs/nontech/nontech_home
