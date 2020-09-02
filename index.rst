@@ -6,15 +6,13 @@
 Welcome to EB FIRST's documentation!
 ====================================
 
+hello :)
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+* :ref:`/docs/code_home`
+* :ref:`/docs/mech_home`
+* :ref:`/docs/nontech_home`
