@@ -8,6 +8,9 @@ Welcome to EB FIRST's documentation!
 
 hello :)
 
+========
+Software
+========
 .. toctree::
    :maxdepth: 2
    :caption: Path Planning
@@ -36,3 +39,11 @@ hello :)
 .. toctree::
    :maxdepth: 2
    :caption: Elevator
+
+==========
+Mechanical
+==========
+
+=======
+Nontech
+=======
