@@ -8,12 +8,9 @@ Welcome to EB FIRST's documentation!
 
 hello :)
 
-========
-Software
-========
-
 .. toctree::
    :maxdepth: 2
+   :caption: Software
 
    docs/code/code_home
    docs/code/doc2
