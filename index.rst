@@ -8,42 +8,23 @@ Welcome to EB FIRST's documentation!
 
 hello :)
 
-========
-Software
-========
 .. toctree::
    :maxdepth: 2
-   :caption: Path Planning
+   :caption: Software
 
    docs/code/code_home
    docs/code/doc2
 
 .. toctree::
    :maxdepth: 2
-   :caption: Robot Simulation
+   :caption: Mechanical
 
    docs/mech/mech_home
    docs/mech/doc2
 
 .. toctree::
    :maxdepth: 2
-   :caption: Kinematics and Odometry
-
-.. toctree::
-   :maxdepth: 2
-   :caption: PID and Motion Profiling
+   :caption: Nontechnical
 
    docs/nontech/nontech_home
    docs/nontech/doc2
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Elevator
-
-==========
-Mechanical
-==========
-
-=======
-Nontech
-=======
