@@ -7,8 +7,6 @@ Welcome to EB FIRST's documentation!
 ====================================
 
 hello :)
-
-
 .. toctree::
    :maxdepth: 2
    :caption: Software
