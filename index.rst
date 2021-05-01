@@ -10,21 +10,29 @@ hello :)
 
 .. toctree::
    :maxdepth: 2
-   :caption: Software
+   :caption: Path Planning
 
    docs/code/code_home
    docs/code/doc2
 
 .. toctree::
    :maxdepth: 2
-   :caption: Mechanical
+   :caption: Robot Simulation
 
    docs/mech/mech_home
    docs/mech/doc2
 
 .. toctree::
    :maxdepth: 2
-   :caption: Nontechnical
+   :caption: Kinematics and Odometry
+
+.. toctree::
+   :maxdepth: 2
+   :caption: PID and Motion Profiling
 
    docs/nontech/nontech_home
    docs/nontech/doc2
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Elevator
