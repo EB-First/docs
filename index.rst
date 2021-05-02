@@ -9,7 +9,7 @@ Welcome to EB FIRST's documentation!
 hello :)
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Software
 
    docs/code/code_home
