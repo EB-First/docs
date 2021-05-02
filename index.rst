@@ -12,8 +12,8 @@ hello :)
    :maxdepth: 1
    :caption: Software
 
-   docs/code/code_home
-   docs/code/doc2
+   docs/code/code_structure_home
+   docs/code/path_planning_home
 
 .. toctree::
    :maxdepth: 1
