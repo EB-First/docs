@@ -14,3 +14,17 @@ hello :)
 
    docs/code/code_home
    docs/code/doc2
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Mechanical
+
+   docs/mech/mech_home
+   docs/mech/doc2
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Nontechnical
+
+   docs/nontech/nontech_home
+   docs/nontech/doc2
